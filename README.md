@@ -4,7 +4,7 @@ Extension for the Blink-based browsers (tested in **Chromium** and **Chrome**, m
 Extension is blocking ads on the lobbies page without triggering anti-adblocker.
 
 It will take this page:
-![Not a Futurama reference](https://lut.im/3vH0jgQ9O4/1G6WVtRb1mHQx5eU.JPG "Not a Futurama reference")
+![Not a Futurama reference](https://lut.im/E4sPNp95sd/HPvZabMYjtG7Yajq.JPG "Not a Futurama reference")
 
 And remove all the advertisement garbage:
 ![Clean](https://lut.im/b9yAqsegti/0rwG3eMxbVMjtcsM.JPG "Clean")
