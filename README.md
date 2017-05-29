@@ -11,7 +11,7 @@ And remove all the advertisement garbage:
 
 ## Installation
 
-Download and unpack the archive.
+Download and unzip the archive.
 
 Open your browser and in the dropdown menu click **Settings** and then on the side menu click **Extensions**.
 
