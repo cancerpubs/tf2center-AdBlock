@@ -4,13 +4,15 @@
    "permissions": [ "activeTab" ],
    "version": "1.0",
    "manifest_version": 2,
-   
-   "icons": {
-      "128": "tf2center.png"
+
+   "icons": { "16": "16.png",
+            "32": "32.png",
+           "48": "48.png",
+          "128": "128.png"
    },
    "browser_action": {
       "default_icon": {
-         "38": "tf2center.png"
+         "38": "38.png"
       },
       "default_title": "TF2Center AdBlock",
       "default_popup": "popup.html"
