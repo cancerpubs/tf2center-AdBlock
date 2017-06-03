@@ -20,15 +20,15 @@ Download and unzip the archive.
 
 Open your browser and in the dropdown menu click **Settings** and then on the side menu click **Extensions**.
 
-Or from the dropdown menu go **More Tools > Extensions**
+Or from the dropdown menu go **More Tools > Extensions**.
 
-In the Extensions menu click on the **Developer mode** checkbox and then click **Load unpacked extension...**
+In the Extensions menu click on the **Developer mode** checkbox and then click **Load unpacked extension...**.
 
-Then navigate to the folder where you unpacked archive and select *tf2center AdBlock* folder
+Then navigate to the folder where you unpacked archive and select *tf2center AdBlock* folder.
 
-If you did everuthing right extension will appear in the Extensions menu. Make sure that **Enabled** checkbox is set.
+If you did everything right, extension will appear in the Extensions menu. Make sure that **Enabled** checkbox is set.
 
-If you have any other adblocking or privacy enhancing extensions - make sure that they are disabled for the TF2C's domain.
+If you have any other adblocking or privacy enhancing extensions - make sure that they are disabled for the TF2C's domain, because these extenisons still can trigger anti-adblocker.
 
 ## Changelog
 
