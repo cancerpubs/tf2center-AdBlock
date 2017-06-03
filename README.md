@@ -1,5 +1,5 @@
 # TF2Center AdBlock
-Extension for the Blink-based browsers (tested in **Chromium** and **Chrome**, may work in *Brave*, *Vivaldi*, *Opera*, *Yandex Browser*, etc.)
+Extension for the Blink-based browsers (tested in **Chromium** and **Chrome**, but may work in *Brave*, *Vivaldi*, *Opera*, *Yandex Browser*, etc.)
 
 Extension is blocking ads on the lobbies page without triggering anti-adblocker.
 
@@ -10,6 +10,10 @@ And remove all the advertisement garbage:
 ![Clean](https://lut.im/b9yAqsegti/0rwG3eMxbVMjtcsM.JPG "Clean")
 
 ## Installation
+
+<a target="_blank" href="https://chrome.google.com/webstore/detail/tf2center-adblock/ggafejbhopolaieibdkojeaiaodcnmbb"><img alt="Try it now" src="https://lut.im/ooIxsOaHWh/mK344TRW20iMQyEH.png" title="Click here to install this sample from the Chrome Web Store"></img></a>
+
+## Manual installation
 
 Download and unzip the archive.
 
