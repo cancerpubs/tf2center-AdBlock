@@ -1,8 +1,8 @@
 {
    "name": "TF2Center AdBlock",
-   "description": "Remove Ads from tf2center.com",
+   "description": "Block ads on the tf2center.com without triggering anti-adblocker",
    "permissions": [ "activeTab" ],
-   "version": "1.0",
+   "version": "1.0.1",
    "manifest_version": 2,
 
    "icons": { "16": "16.png",
