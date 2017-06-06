@@ -32,6 +32,13 @@ If you have any other adblocking or privacy enhancing extensions - make sure tha
 
 ## Changelog
 
+#### 1.0.2
+Updated extension's popup:
+* added tf2center lobbies link
+* added report a problem link that redirects to the github Issues page.
+
+Added a notification at the *tf2center.com/adblock* page.
+
 #### 1.0.1
 Updated icons and manifest.
 #### 1.0
