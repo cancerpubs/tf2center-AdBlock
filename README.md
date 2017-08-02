@@ -12,7 +12,9 @@ And remove all the advertisement garbage:
 
 ## Installation
 
-<a target="_blank" href="https://chrome.google.com/webstore/detail/tf2center-adblock/ggafejbhopolaieibdkojeaiaodcnmbb"><img alt="Try it now" src="https://lut.im/ooIxsOaHWh/mK344TRW20iMQyEH.png" title="Click here to install this sample from the Chrome Web Store"></img></a>
+<a target="_blank" href="https://chrome.google.com/webstore/detail/tf2center-adblock/ggafejbhopolaieibdkojeaiaodcnmbb"><img style="height: 75px" alt="Try it now" src="https://s-media-cache-ak0.pinimg.com/736x/cf/94/0b/cf940bd4facbad65ad13ee4fa62c538b--monster-party-google-chrome.jpg" title="Click here to install this sample from the Chrome Web Store"></img></a>
+
+<a target="_blank" href="https://addons.mozilla.org/de/firefox/addon/tf2center-adblock/"><img alt="Try it now" src="https://www.mozilla.org/media/img/firefox/firefox-256.e2c1fc556816.jpg" title="Click here to install this sample from Mozilla Addons"></img></a>
 
 ## Manual installation
 
