@@ -1,6 +1,6 @@
 # TF2Center AdBlock
 
-Extension for the Blink-based browsers (tested in **Chromium** and **Chrome**, but may work in *Brave*, *Vivaldi*, *Opera*, *Yandex Browser*, etc.)
+Extension for the Blink-based browsers (tested in **Chromium**, **Chrome**, **FireFox** and **Opera**, but may work in *Brave*, *Vivaldi*, *Yandex Browser*, etc.)
 
 Extension is blocking ads on the lobbies page without triggering anti-adblocker.
 
