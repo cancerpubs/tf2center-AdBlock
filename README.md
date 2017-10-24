@@ -14,7 +14,7 @@ And remove all the advertisement garbage:
 
 select your browser:
 
-<a target="_blank" href="https://chrome.google.com/webstore/detail/tf2center-adblock/ggafejbhopolaieibdkojeaiaodcnmbb"><img style="height: 75px" alt="Try it now" src="https://cdn1.iconfinder.com/data/icons/logos-brands-1/24/logo_brand_brands_logos_chrome-64.png" title="Click here to install this sample from the Chrome Web Store"></img></a>      <a target="_blank" href="https://addons.mozilla.org/de/firefox/addon/tf2center-adblock/"><img alt="Try it now" src="https://cdn1.iconfinder.com/data/icons/logos-brands-1/24/logo_brand_brands_logos_firefox-64.png" title="Click here to install this sample from Mozilla Addons"></img></a>
+<a target="_blank" href="https://chrome.google.com/webstore/detail/tf2center-adblock/ggafejbhopolaieibdkojeaiaodcnmbb"><img style="height: 75px" alt="Try it now" src="https://cdn1.iconfinder.com/data/icons/logos-brands-1/24/logo_brand_brands_logos_chrome-64.png" title="Click here to install this sample from the Chrome Web Store"></img></a>      <a target="_blank" href="https://addons.mozilla.org/firefox/addon/tf2center-adblock/"><img alt="Try it now" src="https://cdn1.iconfinder.com/data/icons/logos-brands-1/24/logo_brand_brands_logos_firefox-64.png" title="Click here to install this sample from Mozilla Addons"></img></a>
 
 ## Manual installation
 
