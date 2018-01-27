@@ -1,0 +1,50 @@
+@keyframes animationframes{
+  0% {
+    transform:  rotate(0deg) ;
+  }
+  20% {
+    transform:  rotate(15deg) ;
+  }
+  40% {
+    transform:  rotate(-10deg) ;
+  }
+  60% {
+    transform:  rotate(5deg) ;
+  }
+  80% {
+    transform:  rotate(-5deg) ;
+  }
+  100% {
+    transform:  rotate(0deg) ;
+  }
+}
+
+@-webkit-keyframes animationFrames {
+    0% {
+    transform:  rotate(0deg) ;
+  }
+  20% {
+    transform:  rotate(15deg) ;
+  }
+  40% {
+    transform:  rotate(-10deg) ;
+  }
+  60% {
+    transform:  rotate(5deg) ;
+  }
+  80% {
+    transform:  rotate(-5deg) ;
+  }
+  100% {
+    transform:  rotate(0deg) ;
+  }
+}
+
+#tf2c_adblock_popup_icon{
+    animation: animationframes linear 1s;
+    animation-iteration-count: infinite;
+    transform-origin: 50% 0%;
+    -webkit-animation: animationFrames linear 1s;
+    -webkit-animation-iteration-count: 1;
+    -webkit-transform-origin: 50% 0%;
+}
