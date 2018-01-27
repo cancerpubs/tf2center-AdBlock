@@ -34,6 +34,15 @@ If you have any other adblocking or privacy enhancing extensions - make sure tha
 
 ## Changelog
 
+### 1.1.0
+* updated system to remove ads
+* fixed the FireFox bug reported
+* official support for Opera
+* added information popup before all ads will be removed
+* updated popup (dropdown) menu
+* adblock can now be turned off and on (only support for Chrome and
+Opera)
+
 #### 1.0.2
 Updated extension's popup:
 * added tf2center lobbies link
